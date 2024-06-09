@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Planetas</string>
-</resources>
+
+        <string-array name="planetas_nombres">
+            <item>Mercurio</item>
+            <item>Venus</item>
+            <item>Tierra</item>
+            <item>Marte</item>
+            <item>Júpiter</item>
+            <item>Saturno</item>
+            <item>Urano</item>
+            <item>Neptuno</item>
+        </string-array>
+
+        <string-array name="planetas_descripciones">
+            <item>Mercurio es el planeta más cercano al Sol.</item>
+            <item>Venus es el segundo planeta del sistema solar.</item>
+            <item>La Tierra es nuestro hogar.</item>
+            <item>Marte es conocido como el planeta rojo.</item>
+            <item>Júpiter es el planeta más grande del sistema solar.</item>
+            <item>Saturno es famoso por sus anillos.</item>
+            <item>Urano tiene un eje de rotación muy inclinado.</item>
+            <item>Neptuno es el planeta más lejano del Sol.</item>
+        </string-array>
+    </resources>
